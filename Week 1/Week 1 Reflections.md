@@ -1,5 +1,6 @@
-#Consider what research is and why it is relevant to computer science. 
-#Think about your own personal understanding of research and note down your own definition of it.
+<h3> Question 1 </h3>
+<br>Consider what research is and why it is relevant to computer science. </br>
+<br>Think about your own personal understanding of research and note down your own definition of it.</br>
 
 ```
 Research is a process that adheres to the scientific method. You essentially form a hunch and create a hypothesis and create an experiment. 
