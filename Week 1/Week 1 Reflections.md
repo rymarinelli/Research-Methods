@@ -8,3 +8,9 @@ You then collect data for this experiement and create a model. You then intrepre
 it out in a fashion that allows the results to be reproduced. 
 
 ```
+<h3>Describe the difference based on the continuum of formal and informal sources of research ideas.</h3>
+
+```
+I think the main difference is how the research question is formed and how specific the question is when posed. 
+Less formal questions may focus on description. More formal question may focus on causal realtionships or a more targeted problem
+```
