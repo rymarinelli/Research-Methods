@@ -27,3 +27,11 @@ I have used theories from design when looking over systems. It helps to have a s
 ```
 I think that being a good researcher is being a good critical thinker. It allows you to see how information is gathered and if the the source and the data generating process is appropriate.
 ```
+<h3> Question 4 </h3>
+<br> Why should a researcher reflect upon their own views and assumptions when engaging in a piece of research?</br>
+
+```
+It will help to make their research more sound. People have bias in how they work. By being aware of their bias and correcting for it through
+methodlogy, it is possible to conduct research in a more objective fashion 
+
+```
