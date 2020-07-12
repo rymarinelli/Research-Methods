@@ -20,3 +20,10 @@ Less formal questions may focus on description. More formal question may focus o
 ```
 I have used theories from design when looking over systems. It helps to have a system-level view of problems to see how interoperability of systems relates to the compontents 
 ```
+
+<h3> Question 3 </h3>
+<br> Why is Research Methods an important tool for life? </br>
+
+```
+I think that being a good researcher is being a good critical thinker. It allows you to see how information is gathered and if the the source and the data generating process is appropriate.
+```
